@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/amar-na-bola-kotha/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Amar Na Bola Kotha](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Amar Na Bola Kotha](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> আগুনের এই নীল ধোঁয়াতে পুড়ছে আমার রাত
+> অচেনা এক ঘোরের মাঝে খুঁজছি তোমার হাত
+> মায়াবী এই অন্ধকারের নেশায় কাঁপে বুক
+> বিষাদমাখা তোমার বুকে পেতে চাই যে সুখ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
