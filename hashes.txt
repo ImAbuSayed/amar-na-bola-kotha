@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amar Na Bola Kotha
+
+This log tracks the cryptographic history and versioning for the song **Amar Na Bola Kotha** (amar-na-bola-kotha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:02:19.190350 | `v1` | `ade83317e6ff99266ead3f1be7ff5bf213574cc63f4dad338c10ccf45f7118af` | `c54605676a58422d960e8c02181fff8535d822f477dfe9315123e8caa5b9892d` | `2026-05-08_amar-na-bola-kotha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
